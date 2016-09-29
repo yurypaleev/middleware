@@ -1,0 +1,13 @@
+{
+  "name": "middleware",
+  "description": "",
+  "main": "middleware.js",
+  "authors": [
+    "Yury Paleev <yurypaleev@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "middleware"
+  ],
+  "homepage": "https://github.com/yurypaleev/middleware"
+}

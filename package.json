@@ -1,0 +1,20 @@
+{
+  "name": "node-middleware",
+  "version": "1.0.0",
+  "main": "middleware.js",
+  "keywords": [
+    "node",
+    "middleware"
+  ],
+  "author": "Yury Paleev <yurypaleev@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yurypaleev/middleware.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yurypaleev/middleware/issues"
+  },
+  "homepage": "https://github.com/yurypaleev/middleware",
+  "description": ""
+}
